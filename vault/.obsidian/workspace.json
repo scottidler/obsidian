@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "447b4e04c0f6733d",
+    "type": "split",
+    "children": [
+      {
+        "id": "83f086dc168ed813",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "905a9061d0fab0ba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ca98bc4f589653f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bc288f218526c4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0666aeebb1066853",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "095b5604fe199e93",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "92b1bc09e3ed1883",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4fb3c876def6923",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ab3ac4f8398910c",
+    "type": "split",
+    "children": [
+      {
+        "id": "33bc550c123f041b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cd147773c60280a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Annette.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e13d51585b130cb8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Annette.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "802c8886bce672bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "744a99ac9e3cf41c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Annette.md"
+              }
+            }
+          },
+          {
+            "id": "316cddcef2761a4b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a5ca9896c935cbc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "8a5ca9896c935cbc",
+  "lastOpenFiles": [
+    "Home.md",
+    "templates/note.md",
+    "templates/moc.md",
+    "templates/meeting.md",
+    "templates/idea.md",
+    "templates/1-1.md",
+    "templates/daily.md",
+    "daily/2022-08-06.md",
+    "Annette.md",
+    "templates/person.md",
+    "Untitled.md"
+  ]
+}
