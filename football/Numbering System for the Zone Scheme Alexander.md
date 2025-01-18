@@ -1,0 +1,24 @@
+---
+date: 2024-07-04
+day: Thu
+time: 15:32
+tags:
+  - alexander
+  - glazier-clinics
+  - inside-zone
+  - numbering-system
+  - offensive-line
+  - outside-zone
+  - run-blocking
+  - zone
+url: https://www.youtube.com/watch?v=NBZJCXE4Ysw
+author: Glazier Clinics
+published: 2015-03-10T04:21:33Z
+type: link
+---
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/NBZJCXE4Ysw" frameborder="0" allowfullscreen></iframe>
+
+## Description
+We’ll use specific schemes and plays for illustration okay let’s start with the basic man rules after the center identities 0 then the blockers count out and then rules so in other words the center identifies and blocks zero the front side guard is gonna block the front side one. Which means the first man to the front side of zero the front side tackle takes two the second man with the front side of zero the tight end takes three the third man with the front side of zero the backside guard blocks back side one the first man of the back side of zero the back side tackle blocks the back side two the second man with the back side of zero and finally the backside tight end blocks the backside three the third man for the backside of zero the only exception in this system is a stack rule when a linebacker and defensive lineman are stacked behind each other count the defensive lineman first and the linebacker second okay finally we’re ready to rule out our first play this the is open sides zone play we will use zone concepts and apply them to man rules basically when a lineman is uncovered then you will use zone blocking principals  but this could be an open side draw play or a weak side pass protection where the blockers handle the same defenders this example is not only about one particular play it’s a play where there’s three blockers the center identifies zero with number three from the outside and then once zero is identified the center takes a zero the front side guard takes one the front side tackle takes two the backside guard takes one the back side tackle takes two here you’ll see that the tackle is uncovered as the center was and there man rules become zone principals so effectively the right tackle here is man the right guard in center is zone as the left guard and left tackle are zone as well the backside tackle takes the back side the back side tight end takes the back side three look at the adjustment that is made when the second defender gets on the end of the line of scrimmage becoming the three man center still take zero now defensive tackle front side guard takes number one now he is end front side tackle takes the front side two which is the mike the backside guard takes the backside one the backside tackle still takes the backside two there both in zone combination as the backside tight end continues to take the back side three look at this extreme example of an over shifted defense we’re all over here rather than a special rule or a special call we just count them all maybe since look you would want to pass the other way or maybe you choose to run it into an out number front anyway because of my cut back that’s not the scope of this discussion lets come again we have three blockers center guard tackle and start the zone here one two three so mike is here for the center front side guard takes front side one which is the end front side tackle takes two which is nickel the second man passes zero the backside guard takes one back side one the first man with the backside of zero  the backside tackle takes a backside two the second man to the backside of zero and the backsides tight end takes the backside three let’s all apply man rules to a four man blocking surface the center the guard the tackle and tight end on this play the center is determined the safety is not a threat he feels the receiver can block so he begins his count starting with the Sam linebacker zero is mike the fourth man in on a four man blocking surface now let’s assign men to their defenders the center once again takes zero the front side guard once again takes front side one the first man to the front side of zero the front side tackle takes front side two the front side tight end takes front side three the backside rules are the same as the backside guard taking tackle two and the tight end three now let’s say the safety is a threat the safety walks up into a position where the receiver can to block him so he must be blocked obviously by the line of scrimmage otherwise he’ll make the tackle at the  backfield so the center now comes four man in and zero is a defensive tackle front side guard tackle and tight end now compensate to take front side one two and three the backside all kick over a man with the backside guard taking the backside one which is now the mike the tackle on the tackle and the backside tight end on number three. 
+For more football play videos visit www.glazierclinics.com
